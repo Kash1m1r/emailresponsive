@@ -1,0 +1,21 @@
+.body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.outer-panel{
+    width: 60%;
+    padding: 0% 7%;
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.inner-panel{
+    background-color: rgba(255, 255, 255, 0.55);
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.34);
+    margin-top: 2%;
+}
